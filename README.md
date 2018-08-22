@@ -1,4 +1,5 @@
 # Knight-game
+This is a programming exercise to implement a simple game, see rules.txt for more details about the rules of the game. The program will print the end state of the board once all moves have been processed.
 This game requires Python 3.
 
 To run the game: 
